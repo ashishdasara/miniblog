@@ -1,0 +1,36 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "text": "The first comment to test the json file",
+      "properties": {
+        "likes": 0,
+        "shares": 1
+      }
+    },
+    {
+      "id": 2,
+      "text": "...and this is the second comment",
+      "properties": {
+        "likes": 2,
+        "shares": 1
+      }
+    },
+    {
+      "text": "third comment to test the POST request",
+      "properties": {
+        "likes": 0,
+        "shares": 0
+      },
+      "id": 3
+    },
+    {
+      "text": "....again fourth comment to test the link",
+      "properties": {
+        "likes": 0,
+        "shares": 0
+      },
+      "id": 4
+    }
+  ]
+}
